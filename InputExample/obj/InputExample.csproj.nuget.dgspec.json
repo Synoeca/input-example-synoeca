@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExample.csproj": {}
+    "C:\\Users\\synoe\\Source\\Repos\\input-example-synoeca\\InputExample\\InputExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExample.csproj": {
+    "C:\\Users\\synoe\\Source\\Repos\\input-example-synoeca\\InputExample\\InputExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExample.csproj",
+        "projectUniqueName": "C:\\Users\\synoe\\Source\\Repos\\input-example-synoeca\\InputExample\\InputExample.csproj",
         "projectName": "InputExample",
-        "projectPath": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExample.csproj",
+        "projectPath": "C:\\Users\\synoe\\Source\\Repos\\input-example-synoeca\\InputExample\\InputExample.csproj",
         "packagesPath": "C:\\Users\\synoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\obj\\",
+        "outputPath": "C:\\Users\\synoe\\Source\\Repos\\input-example-synoeca\\InputExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
