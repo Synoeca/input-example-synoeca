@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InputExample
-build_property.ProjectDir = C:\Users\synoe\Source\Repos\input-example\InputExample\
+build_property.ProjectDir = C:\Users\synoe\source\repos\input-example-synoeca\InputExample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

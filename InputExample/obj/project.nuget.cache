@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rIcJxjTR88s=",
+  "dgSpecHash": "0yS92/wbgDQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\InputExample.csproj",
+  "projectFilePath": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synoe\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\synoe\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

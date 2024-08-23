@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/nhbean/Teaching/CIS580/InputExample/InputExample/Content/basketball.png</File>
+    <File>C:/Users/synoe/Source/Repos/input-example/InputExample/Content/basketball.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

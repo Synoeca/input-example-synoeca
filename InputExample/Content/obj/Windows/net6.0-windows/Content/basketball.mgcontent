@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/nhbean/Teaching/CIS580/InputExample/InputExample/Content/basketball.png</SourceFile>
-  <SourceTime>2023-08-27T15:09:40.5457814-05:00</SourceTime>
-  <DestFile>C:/Users/nhbean/Teaching/CIS580/InputExample/InputExample/Content/bin/Windows/Content/basketball.xnb</DestFile>
-  <DestTime>2023-08-27T15:11:58.2370279-05:00</DestTime>
+  <SourceFile>C:/Users/synoe/Source/Repos/input-example/InputExample/Content/basketball.png</SourceFile>
+  <SourceTime>2024-08-23T15:45:17.253107-05:00</SourceTime>
+  <DestFile>C:/Users/synoe/Source/Repos/input-example/InputExample/Content/bin/Windows/Content/basketball.xnb</DestFile>
+  <DestTime>2024-08-23T15:47:51.2635264-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T06:44:56-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
