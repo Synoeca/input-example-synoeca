@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nhbean\\Teaching\\CIS580\\InputExample\\InputExample\\InputExample.csproj": {}
+    "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\InputExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nhbean\\Teaching\\CIS580\\InputExample\\InputExample\\InputExample.csproj": {
+    "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\InputExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nhbean\\Teaching\\CIS580\\InputExample\\InputExample\\InputExample.csproj",
+        "projectUniqueName": "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\InputExample.csproj",
         "projectName": "InputExample",
-        "projectPath": "C:\\Users\\nhbean\\Teaching\\CIS580\\InputExample\\InputExample\\InputExample.csproj",
-        "packagesPath": "C:\\Users\\nhbean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nhbean\\Teaching\\CIS580\\InputExample\\InputExample\\obj\\",
+        "projectPath": "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\InputExample.csproj",
+        "packagesPath": "C:\\Users\\synoe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\synoe\\Source\\Repos\\input-example\\InputExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nhbean\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\synoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\nhbean\\Development\\CSharp\\pendant\\CodeAnalyzers\\CodeAnalyzers.Package\\bin\\Release": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
