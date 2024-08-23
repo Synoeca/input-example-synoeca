@@ -7,6 +7,11 @@ namespace InputExample
     public class Ball
     {
         /// <summary>
+        /// A random number generator
+        /// </summary>
+        Random random;
+
+        /// <summary>
         /// The game this ball is a part of
         /// </summary>
         Game game;
@@ -35,6 +40,7 @@ namespace InputExample
         {
             this.game = game;
             this.color = color;
+            this.random = new Random();
         }
 
         /// <summary>
@@ -54,6 +60,17 @@ namespace InputExample
         {
             if (texture is null) throw new InvalidOperationException("Texture must be loaded to render");
             spriteBatch.Draw(texture, Position, color);
+        }
+
+        /// <summary>
+        /// Warps the ball to a random location on screen
+        /// </summary>
+        public void Warp()
+        {
+            Position = new Vector2(
+                (float)random.NextDouble() * game.GraphicsDevice.Viewport.Width,
+                (float)random.NextDouble() * game.GraphicsDevice.Viewport.Height
+            );
         }
     }
 }
