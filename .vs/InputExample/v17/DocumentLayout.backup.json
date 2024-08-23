@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|c:\\users\\synoe\\source\\repos\\input-example-synoeca\\inputexample\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|solutionrelative:inputexample\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|c:\\users\\synoe\\source\\repos\\input-example-synoeca\\inputexample\\inputexamplegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|solutionrelative:inputexample\\inputexamplegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|c:\\users\\synoe\\source\\repos\\input-example-synoeca\\inputexample\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|solutionrelative:inputexample\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9108EABE-C7FE-4F83-A437-E270C2EF1603}|InputExample\\InputExample.csproj|c:\\users\\synoe\\source\\repos\\input-example-synoeca\\inputexample\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputManager.cs",
               "RelativeDocumentMoniker": "InputExample\\InputManager.cs",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InputExampleGame.cs",
               "DocumentMoniker": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExampleGame.cs",
               "RelativeDocumentMoniker": "InputExample\\InputExampleGame.cs",
               "ToolTip": "C:\\Users\\synoe\\source\\repos\\input-example-synoeca\\InputExample\\InputExampleGame.cs",
               "RelativeToolTip": "InputExample\\InputExampleGame.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:45:19.621Z",
               "EditorCaption": ""
